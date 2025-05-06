@@ -1,0 +1,6 @@
+mkdir to-do-app
+cd to-do-app
+mkdir backend
+cd backend
+npm init -y
+npm install express mongoose dotenv bcryptjs jsonwebtoken
